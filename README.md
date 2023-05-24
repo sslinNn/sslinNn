@@ -4,11 +4,7 @@
   </h1>
 </div>
 
-<div align="center">
-  
-  ![image title](https://rushter.com/counter.svg)
-  
-</div>
+
 
 <!--
 **sslinNn/sslinNn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
