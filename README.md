@@ -35,6 +35,10 @@
   <a href="https://github.com/sslinNn/car_price_forecast">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sslinNn&repo=car_price_forecast&theme=dark">
   </a>
+  
+  <a href="https://github.com/sslinNn/AuthForm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sslinNn&repo=AuthForm&theme=dark">
+  </a>
 </div>
 
 <div align="center">
