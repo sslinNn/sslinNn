@@ -1,21 +1,60 @@
 <div align="center">
-  <h1 align="center" width="100%">
-      Hi there 👋
+  <h1>
+    Hello, I'm sslinNn👋
   </h1>
 </div>
 
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sslinNn&style=flat&color=blueviolet" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sslinNn&style=flat&color=blueviolet" style="display: block;"/>
 </div>
 
-<h1 align="center" width="100%">
-  <div id="gif" align="center">
-    <img src="https://64.media.tumblr.com/22f9bbbe51345f1668099dbb95d17168/tumblr_mjrwhterLZ1qc3plfo1_500.gifv" width="400" height="100%"/>
+
+
+<div align="center">
+  <h2 align="center" width="100%">
+      About me
+  </h2>
+  🌱 В настоящее время изучаю <b>Aiogram3</b>, <b>Django</b>, <b>PostgreSQL</b><br>
+  💼 Работаю на позиции <b>Junior Backend Developer</b> в [Ваша компания😉]<br>
+  📫 Ссылки для связи со мной есть чуть ниже
+</div>
+
+<div align="center">
+  <h2 align="center" width="100%">
+      Skills
+  </h2>
+  💻 Язык программирования: <b>Python</b> (<u>Обязательно расширю этот список</u>)<br>
+  🛠️ Фреймворки и инструменты: <b>Flask</b>, <b>Git</b>
+</div>
+
+<div align="center">
+  <h2 align="center" width="100%">
+      My best repositories
+  </h2>
+  <a href="https://github.com/sslinNn/car_price_forecast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sslinNn&repo=car_price_forecast&theme=dark">
+  </a>
+</div>
+
+<div align="center">
+  <h2 align="center" width="100%">
+      My contacts
+  </h2>
+
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-gray)](https://t.me/im_sslinnn)
+  [![VK](https://img.shields.io/badge/VK-gray)](https://vk.com/sslinnn)
+  [![Email](https://img.shields.io/badge/Email-gray)](mailto:morison1991@mail.ru)
+
+</div>
+
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/22f9bbbe51345f1668099dbb95d17168/tumblr_mjrwhterLZ1qc3plfo1_500.gifv" width="250px" height="100%" style="display: block;"/>
+  <div>
+
   </div>
-</h1>
-
-
-
+</div>
 
 <!--
 **sslinNn/sslinNn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
