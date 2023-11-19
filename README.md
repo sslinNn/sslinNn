@@ -51,14 +51,8 @@
 
 <div align="center">
   <h2 align="center" width="100%">
-      My stats <img src="https://github.com/sslinNn/sslinNn/assets/113080924/1138c894-e857-4117-87e1-dd10dd84395f" width="25px" height="100%">
+      Just gif <img src="https://github.com/sslinNn/sslinNn/assets/113080924/1138c894-e857-4117-87e1-dd10dd84395f" width="25px" height="100%">
   </h2>
-
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sslinNn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <img src="https://64.media.tumblr.com/22f9bbbe51345f1668099dbb95d17168/tumblr_mjrwhterLZ1qc3plfo1_500.gifv" width="150px" height="100%" style="display: block;"/>
   
