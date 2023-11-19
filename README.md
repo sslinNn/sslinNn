@@ -42,7 +42,6 @@
       My contacts
   </h2>
 
-  
   [![Telegram](https://img.shields.io/badge/Telegram-gray)](https://t.me/im_sslinnn)
   [![VK](https://img.shields.io/badge/VK-gray)](https://vk.com/sslinnn)
   [![Email](https://img.shields.io/badge/Email-gray)](mailto:morison1991@mail.ru)
@@ -51,10 +50,14 @@
 
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/22f9bbbe51345f1668099dbb95d17168/tumblr_mjrwhterLZ1qc3plfo1_500.gifv" width="250px" height="100%" style="display: block;"/>
-  <div>
+  <h2 align="center" width="100%">
+      My stats <img src="https://github.com/sslinNn/sslinNn/assets/113080924/1138c894-e857-4117-87e1-dd10dd84395f" width="25px" height="100%">
+  </h2>
 
-  </div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sslinNn&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  <img src="https://64.media.tumblr.com/22f9bbbe51345f1668099dbb95d17168/tumblr_mjrwhterLZ1qc3plfo1_500.gifv" width="150px" height="100%" style="display: block;"/>
+  
 </div>
 
 <!--
