@@ -14,6 +14,7 @@
   <h2 align="center" width="100%">
       About me
   </h2>
+  🙋‍♂️ Я начинающий Python Developer<br>
   🌱 В настоящее время изучаю <b>Aiogram3</b>, <b>Django</b>, <b>PostgreSQL</b><br>
   💼 Работаю на позиции <b>Junior Backend Developer</b> в [Ваша компания😉]<br>
   📫 Ссылки для связи со мной есть чуть ниже
