@@ -39,6 +39,10 @@
   <a href="https://github.com/sslinNn/AuthForm">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sslinNn&repo=AuthForm&theme=dark">
   </a>
+  
+  <a href="https://github.com/sslinNn/WATB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sslinNn&repo=WATB&theme=dark">
+  </a>
 </div>
 
 <div align="center">
