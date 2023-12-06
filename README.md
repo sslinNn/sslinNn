@@ -15,7 +15,7 @@
       About me
   </h2>
   🙋‍♂️ Я начинающий Python Developer<br>
-  🌱 В настоящее время изучаю <b>Aiogram3</b>, <b>Django</b>, <b>PostgreSQL</b><br>
+  🌱 В настоящее время изучаю <b>Django</b>, <b>PostgreSQL</b><br>
   💼 Работаю на позиции <b>Junior Backend Developer</b> в [Ваша компания😉]<br>
   📫 Ссылки для связи со мной есть чуть ниже
 </div>
@@ -25,7 +25,7 @@
       Skills
   </h2>
   💻 Язык программирования: <b>Python</b> (<u>Обязательно расширю этот список</u>)<br>
-  🛠️ Фреймворки и инструменты: <b>Flask</b>, <b>Git</b>
+  🛠️ Фреймворки и инструменты: <b>Flask</b>, <b>Git</b>, <b>Aiogram3</b>
 </div>
 
 <div align="center">
