@@ -15,8 +15,8 @@
       About me
   </h2>
   🙋‍♂️ Я начинающий Python Developer<br>
-  🌱 В настоящее время изучаю <b>Django</b>, <b>PostgreSQL</b><br>
-  💼 Работаю на позиции <b>Junior Backend Developer</b> в [Ваша компания😉]<br>
+  🌱 В настоящее время изучаю <b>Django</b>, <b>PostgreSQL</b> и прохожу интенсив в School21<br>
+  💼 Работаю на позиции <b>Backend Developer</b> в [Ваша компания😉]<br>
   📫 Ссылки для связи со мной есть чуть ниже
 </div>
 
