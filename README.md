@@ -14,10 +14,9 @@
   <h2 align="center" width="100%">
       About me
   </h2>
-  🙋‍♂️ Я начинающий Python Developer<br>
-  🌱 В настоящее время ищу производственную практику!
+  🙋‍♂️ Я - Fullstack developer<br>
 
-  💼 Работаю на позиции <b>Backend Developer</b> в [Ваша компания😉]<br>
+  💼 Работаю на позиции <b>Fullstack Developer</b> в [Ваша компания😉]<br>
   📫 Ссылки для связи со мной есть чуть ниже
 </div>
 
@@ -25,8 +24,8 @@
   <h2 align="center" width="100%">
       Skills
   </h2>
-  💻 Язык программирования: <b>Python</b> (<u>Обязательно расширю этот список</u>)<br>
-  🛠️ Фреймворки и инструменты: <b>Flask</b>, <b>Git</b>, <b>Aiogram3</b>, <b>Django</b>, <b>PostgreSQL</b>
+  💻 Язык программирования: <b>Python</b>, <b>TypeScript</b> (<u>Обязательно расширю этот список</u>)<br>
+  🛠️ Фреймворки и инструменты: <b>FastAPI</b>, <b>Django</b>, <b>Aiogram3</b>, <b>Git</b>, <b>PostgreSQL</b>
 
 Прошел интенсив в <b>School21</b>
 </div>
